@@ -50,18 +50,7 @@ function calcAge() {
       }
     }
 
-    // else if (birthMonth.value = currentMonth) {
-    //   if(birthDay.value = currentDay){
-
-    //   }
-    // }
-    // } else if (birthMonth.value > currentMonth && birthDay.value > currentDay) {
-    //   currentYear--;
-    //   currentMonth--;
-    //   var currentAge = `${currentYear - birthYear.value} : ${
-    //     12 - Math.abs(currentMonth - birthMonth.value)
-    //   } : ${31 - Math.abs(currentDay - birthDay.value)}`;
-    // }
+ 
     console.log(currentAge);
     console.log(currentDay);
 
